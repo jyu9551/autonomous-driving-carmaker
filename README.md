@@ -1,5 +1,5 @@
 
-# 🚗 AutonomousDrivingSoftwareChallenge
+# 🚗 Autonomous Driving Software Challenge
 2021 자율주행 소프트웨어 챌린지  
 
 ## 참고 페이지
