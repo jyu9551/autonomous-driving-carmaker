@@ -1,14 +1,17 @@
+#  주제 : 자율주행 SW 챌린지
 
-# 🚗 Autonomous Driving Software Challenge
-2021 자율주행 소프트웨어 챌린지  
+<table width=80%>
+  <tr>
+    <td><b>프로젝트 기간</b></td><td><b>주최</b></td><td><b>프로젝트원</b></td><td><b>수행 역할</b></td>
+  </tr>
+  <tr>
+    <td>2023.01 - 2023.06</td><td>인천대학교, IPG Automotive</td><td>이현지 정석현 조영욱</td><td>카메라 객체 인식 기능 개발 및 시험</td>
+  </tr>
+</table>
+<br/>
 
-## 참고 페이지
-[**ADSC 카페링크**](https://cafe.naver.com/inuadsc2021)   
-[**사전교육 유튜브 영상**](https://www.youtube.com/watch?v=kSOYLGXPVoA&list=PLb0pgb0RlXEpJysmiz7e92hYSZkgn4WhN&index=1)  
+## 프로젝트 소개
+<img src="https://github.com/user-attachments/assets/a2d034c6-f529-413b-9133-69bed681ff65">
 
-## 대회 일정  
-![image](https://user-images.githubusercontent.com/61939286/140271280-d1829ae1-3110-4592-b21d-1372dcfadc84.png)
-
-![image](https://user-images.githubusercontent.com/61939286/132117480-9fca6ed7-77df-4819-a2c5-4e579afa5ec2.png)
-
-
+## 시연영상
+<img src="https://github.com/user-attachments/assets/df14d8fb-b6b7-4d5f-bda7-81857975d8c6">
