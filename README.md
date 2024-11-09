@@ -11,7 +11,5 @@
 <br/>
 
 ## 프로젝트 소개
-<img src="https://github.com/user-attachments/assets/a2d034c6-f529-413b-9133-69bed681ff65">
-
-## 시연영상
-<img src="https://github.com/user-attachments/assets/df14d8fb-b6b7-4d5f-bda7-81857975d8c6">
+CarMaker 내 상암 테스트베드 시뮬레이션 환경에서 돌발상황에 대처하는 자율주행 로직을 통해 주어진 루트를 완주하는 프로젝트 <br><br>
+<img src="[https://github.com/user-attachments/assets/a2d034c6-f529-413b-9133-69bed681ff65](https://github.com/user-attachments/assets/1a37ee07-f11c-45c4-bad6-de25f49972a6)">
